@@ -1,4 +1,3 @@
-//fake data for eg                              //10
 module.exports = [
     {
         city: "New York",
